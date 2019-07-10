@@ -1,0 +1,20 @@
+{
+  "name": "Lifestyle",
+  "utterances": [
+    "Ikea furnitures",
+    "fashion brand",
+    "men and kids clothes",
+    "Accessories for women",
+    "beauty products",
+    "shoes",
+    "artificial jewelry",
+    "branded clothes",
+    "way living",
+    "style of living",
+    "style"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

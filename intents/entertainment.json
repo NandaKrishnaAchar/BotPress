@@ -1,0 +1,40 @@
+{
+  "name": "ENTERTAINMENT",
+  "utterances": [
+    "show performance",
+    "restore",
+    "relaxing",
+    "enjoyment",
+    "fune",
+    "refreshing",
+    "amazing movies",
+    "dance",
+    "music",
+    "drama",
+    "best box office movie",
+    "blockbuster movies",
+    "hit movie of this year",
+    "trending movies",
+    "Salman Khan",
+    "Bobby Deol",
+    "production",
+    "Amitabh Bachchan",
+    "south indian movies",
+    "Hindi play",
+    "theatre",
+    "oscar award nomination",
+    "small screen and big screen",
+    "cinema hall",
+    "akshay kumar",
+    "Movie awards",
+    "list of Bollywood stars",
+    "Amir Khan new movie",
+    "Shah Rukh Khan new movie",
+    "latest bollywood movies",
+    "tell me about hollywood movies"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Cricket",
+  "utterances": [
+    "glouse",
+    "pads",
+    "bowl",
+    "bat ",
+    "cricket match",
+    "Afghanistan",
+    "Pakistan",
+    "South AFrica",
+    "Australia",
+    "West Indies",
+    "England",
+    "New Zealand",
+    "India",
+    "loss",
+    "victory",
+    "defeat",
+    "beat",
+    "DLS method",
+    "next Indian Matchs",
+    "India cricket team squad",
+    "India team points",
+    "next tournament",
+    "common wealth cricket tournament",
+    "world cup",
+    "ASia cup"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

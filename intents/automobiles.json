@@ -1,0 +1,40 @@
+{
+  "name": "Automobiles",
+  "utterances": [
+    "motor car",
+    "wheels",
+    "sedan",
+    "ride",
+    "hatch back",
+    "go-cart",
+    "four wheeler",
+    "van",
+    "taxi",
+    "sports car",
+    "passenger car",
+    "Royal Enfiels bikes",
+    "YAmaha bikes",
+    "Bajaj bike",
+    "TVS bikes",
+    "best milage bikes",
+    "Hero Honda bikes ",
+    "Nissan cars",
+    "Ford company cars",
+    "electric cars and bike news",
+    "Tesls cars",
+    " Honda bikes and cars",
+    " BMW cool cars",
+    " Volkswagen  cars this year",
+    "new Toyota Cars",
+    "cool cars and bikes to buy",
+    "best bike of this year",
+    "best car of this year",
+    "high speed bikes",
+    "high speed cars ",
+    "better family car"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

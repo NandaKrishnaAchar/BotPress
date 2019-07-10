@@ -1,0 +1,23 @@
+{
+  "name": "Latest",
+  "utterances": [
+    "tell latest news ",
+    "up to date news",
+    "present day news",
+    "fresh news",
+    "just out news",
+    "newest",
+    "most recent news",
+    "recent news",
+    "last news",
+    "up to time news",
+    "up to the minute news",
+    "current news",
+    "new",
+    "latest"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

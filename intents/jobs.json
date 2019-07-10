@@ -1,0 +1,34 @@
+{
+  "name": "Jobs",
+  "utterances": [
+    "day job",
+    "project",
+    "placement",
+    "posting",
+    "appointment",
+    "part time",
+    "employment",
+    "position",
+    "paid",
+    "get a job for BE",
+    "Administration jobs",
+    "job for Financial Manager",
+    "job for Intern",
+    "latest job calls",
+    "job for Project Manager",
+    "job for Consultant",
+    "job for Accountant",
+    "job for Accountant",
+    "service sector jobs",
+    "white collor jobs",
+    "job for Software Developer",
+    "private company jobs",
+    "government jobs",
+    "job for Chief Financial Officer",
+    "new jobs this year"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Technology",
+  "utterances": [
+    "technical knowledge",
+    "scientifif knowledge",
+    "scientific know how",
+    "industrial science",
+    "high tech",
+    "hi tech",
+    "electronic components",
+    "applied science",
+    "telecommunications",
+    "robotics",
+    "mechanization",
+    "mechanics",
+    "machinery",
+    "automation",
+    "Artificial Intelligence",
+    "computer",
+    "pc",
+    "laptop",
+    "oppo",
+    "samsung",
+    "apple",
+    "mobile",
+    "scientific equipments",
+    "scientific advancement",
+    "trending technology ",
+    "latest technology of year",
+    "breakthrough technolgy",
+    "what is the achievement of technology this year",
+    "new invention in technology"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

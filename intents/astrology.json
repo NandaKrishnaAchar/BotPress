@@ -1,0 +1,23 @@
+{
+  "name": "Astrology",
+  "utterances": [
+    "fortune",
+    "how is Pisces sign this year",
+    "Aquarius sign news ",
+    " Capricorn ",
+    " Effect on Sagittarius sign",
+    "Scorpio sign? ",
+    "do Libra sign doing well? ",
+    "is Virgo sign lucky?",
+    " Leo sign effects this month ",
+    " hows the sign Cancer? ",
+    " Gemini sign",
+    "Taurus  this month",
+    "  Aries this week",
+    "Tell me about astrology"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}
